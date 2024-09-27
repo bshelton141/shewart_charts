@@ -1,4 +1,4 @@
-serivice_month,submitter,reject_count,total_count,reject_rate
+service_month,submitter,reject_count,total_count,reject_rate
 2021-01-01,H,110,406.0,0.270935960591133
 2021-02-01,H,45,409.0,0.1100244498777506
 2021-03-01,H,5,455.0,0.01098901098901099
