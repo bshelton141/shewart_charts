@@ -38,7 +38,7 @@ P' and U' Charts are helpful when there is large "normal" variation from observa
 
 ## <a name="install_and_use"></a> Install and Use the Shewhart Package
 #### Install
-`pip3 install -e git+https://github.com/bshelton141/shewhart_charts.git@main#egg=shewhart`
+`pip3 install -e git+https://github.com/bshelton141/shewhart_charts@main#egg=shewhart`
 
 <br/>
 
