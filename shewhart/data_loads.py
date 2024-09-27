@@ -61,7 +61,7 @@ def claim_reject_rate_by_clinic():
     """
     # This is a stream-like object. If you want the actual info, call
     # stream.read()
-    stream = pkg_resources.resource_stream(__name__, 'data/tran_office_rej_by_ppg.csv')
+    stream = pkg_resources.resource_stream(__name__, 'data/claim_reject_rate_by_clinic.csv')
     return pd.read_csv(stream)
 
 
