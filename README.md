@@ -39,8 +39,8 @@ The Python code and commands below show how to navigate the Shewhart package, in
 A more extensive tutorial on the package functions can be found in this repositories `shewhart_examples.py` file.
 
 ```
-# To install/update the `shewhart` package in a Python session, based on the repository's master branch
-!pip3 install -U git+https://bshelton141/shewhart_charts.git@main#egg=shewhart
+# To install/update the `shewhart` package in a Python session, based on the repository's main branch
+!pip3 install -e git+https://github.com/bshelton141/shewhart_charts.git@main#egg=shewhart
 
 # See what functions are available in the package
 from shewhart import __all__ as shewhart_listing
