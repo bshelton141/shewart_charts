@@ -40,16 +40,16 @@ P' and U' Charts are helpful when there is large "normal" variation from observa
 #### Install
 `pip3 install -e git+https://github.com/bshelton141/shewhart_charts.git@main#egg=shewhart`
 
+<br/>
+
+#### Use
+
 The Python code and commands below show how to navigate the Shewhart package, including:
   - Listing all of the package's available functions
   - Using a function's `help` feature
   - A toy example of using a function from the package.
 
 A more extensive tutorial on the package functions can be found in this repositories `shewhart_examples.py` file.
-
-<br/>
-
-#### Use
 ```
 
 # See what functions are available in the package
