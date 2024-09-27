@@ -1,6 +1,6 @@
 # Python Shewhart Chart Development Functions
 
-This repo's is structured as a Python package that provides Python developers with functions to quickly calculate the appropriate, dynamic control limits when trending data points over time or comparing data points between categories. It also contains a function to visualize the outcomes, giving the user an abstracted approach to color coding and labeling the data visuals.
+This repo is structured as a Python package that provides Python developers with functions to quickly calculate the appropriate, dynamic control limits when trending data points over time or comparing data points between categories. It also contains a function to visualize the outcomes, giving the user an abstracted approach to color coding and labeling the data visuals.
 
 <br/>
 
